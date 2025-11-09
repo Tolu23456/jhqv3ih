@@ -1,0 +1,5 @@
+{
+  "name": "n8n JSON Workflow Generator",
+  "description": "An AI-powered application to generate n8n JSON workflows from natural language descriptions. Describe your desired workflow, and the app will produce the corresponding JSON configuration, ready to be imported into n8n.",
+  "requestFramePermissions": []
+}
